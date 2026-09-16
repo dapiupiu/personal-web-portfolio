@@ -2,8 +2,8 @@
 
 Personal portfolio website showcasing my work as a Computer Science student specializing in Data Science, Machine Learning, and Statistical Analysis.
 
-🔗 **Live site:** [On Going](#)
-📄 **Resume/CV:** https://drive.google.com/file/d/185eJbvcfg57A1WDrlc9cR3gAcF6cXtw2/view?usp=drive_link(#)
+- 🔗 **Live site:** [On Going](#)
+- 📄 **Resume/CV:** https://drive.google.com/file/d/185eJbvcfg57A1WDrlc9cR3gAcF6cXtw2/view?usp=drive_link(#)
 
 ---
 
