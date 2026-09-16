@@ -8,7 +8,7 @@ export default function Projects() {
   return (
     <section id="projects" className="py-24 relative z-10 bg-slate-50/50 dark:bg-slate-900/40 scroll-mt-24">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        
+
         {/* Section Header */}
         <div className="flex flex-col md:flex-row md:items-end justify-between mb-14">
           <div>
@@ -64,7 +64,7 @@ export default function Projects() {
               </div>
 
               <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 items-start">
-                
+
                 {/* Left Content Column (7 cols) */}
                 <div className="lg:col-span-7 space-y-4">
                   <h3 className="text-2xl font-bold text-white leading-tight">
@@ -102,7 +102,6 @@ export default function Projects() {
                       >
                         <GithubIcon className="w-4 h-4" />
                         <span>GitHub Repository</span>
-                        <span className="text-[10px] text-slate-400 font-mono">(Placeholder)</span>
                       </a>
                     )}
 
@@ -132,11 +131,10 @@ export default function Projects() {
                     {project.metrics.map((m) => (
                       <div
                         key={m.label}
-                        className={`p-3.5 rounded-xl border ${
-                          m.highlight
+                        className={`p-3.5 rounded-xl border ${m.highlight
                             ? 'bg-teal-950/40 border-teal-500/40 text-teal-300'
                             : 'bg-slate-900/50 border-slate-800 text-slate-300'
-                        }`}
+                          }`}
                       >
                         <div className="text-[11px] font-medium text-slate-400 uppercase tracking-wider">
                           {m.label}
