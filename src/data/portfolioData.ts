@@ -93,7 +93,7 @@ export const PROJECTS_DATA: Project[] = [
       { label: "Records Processed", value: "6,600+" }
     ],
     tags: ["TensorFlow", "Python", "Streamlit", "Deep Learning", "Feature Engineering", "CRISP-DM"],
-    githubUrl: "https://github.com/dapiupiu/edupredict-ai", // TODO: replace with user's exact repo URL
+    githubUrl: "https://github.com/dapiupiu/edupredict-project", // TODO: replace with user's exact repo URL
     isAcademicPrototype: false
   },
   {
@@ -108,7 +108,7 @@ export const PROJECTS_DATA: Project[] = [
       { label: "News Sources", value: "60+" }
     ],
     tags: ["NLP", "Weak Supervision", "SMOTE", "Statistical Analysis", "Python"],
-    publicationUrl: "https://doi.org/10.xxxx/jmtek.2026.placeholder", // TODO: replace with user's publication URL
+    publicationUrl: "https://ejournal.ypayb.or.id/index.php/metrokom/article/view/131", // TODO: replace with user's publication URL
     publicationText: "Published in Jurnal Media Teknik Elektro dan Komputer (2026)",
     isAcademicPrototype: false
   },
@@ -123,7 +123,7 @@ export const PROJECTS_DATA: Project[] = [
       { label: "Evaluation Time", value: "3 Days → 1 Day" }
     ],
     tags: ["System Design", "UML", "Relational Database", "SQL"],
-    publicationUrl: "https://doi.org/10.xxxx/jsecsit.2025.placeholder", // TODO: replace with user's publication URL
+    publicationUrl: "https://jurnal.dharmawangsa.ac.id/index.php/syntax/id/article/view/7183", // TODO: replace with user's publication URL
     publicationText: "Published in Journal of Software Engineering, CS & IT (2025)",
     isAcademicPrototype: true
   }
